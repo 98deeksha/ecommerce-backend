@@ -1,6 +1,6 @@
 🕸 Ecommerce website
 
-ECommerce website is made using Node JS, Express JS and MongoDB incorporating features like product listing, search functionality and authentication. Ensured a responsive design and seamless user experience across devices.
+ECommerce website is made using Node JS, Express JS and MongoDB incorporating features like authentication. 
 
 
 clone the project in local and run:
